@@ -1,0 +1,3 @@
+**.gnupg/crls.d/
+**.gnupg/pubring.kbx
+**.gnupg/trustdb.gpg
